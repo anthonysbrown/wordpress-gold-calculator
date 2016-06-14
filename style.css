@@ -1,0 +1,36 @@
+
+
+
+
+#gold-menu {padding:3px;margin:10px; background-color:#FFF}
+#gold-menu a {font-size:1.1em;font-weight:bold;color:#060 !important}
+#calculator{ background-image: url(images/calc.png) ;width:325px; height:384px; margin:0px auto;}
+#calculator #today{font-size:1.2em; text-align:center;padding-top:5px;}
+#calculator #numbers{padding-top:20px;padding-right:30px;font-size:1.8em; text-align:right; color:#000;font-weight:bold; font-family: Arial, Helvetica, sans-serif}
+#calculator #options{ padding-top:25px;padding-left:20px;}
+#calculator #weights{padding-left:100px;margin-top:37px;}
+#calculator #weights .weight{margin-top:4px;}
+#calculator #weights .weight .amount{font-size:1.2em;padding-left:20px;}
+#calculator #weights .weight input{padding:1px;width:100px;font-size:1.3em;}
+#calculator  #buttons{ text-align:right;padding-right:15px;padding-top:10px;}
+
+
+#caclulator-chart {background-color:#FFF}
+#caclulator-chart h1{ color:#333 ;padding:5px;font-size:1.2em; text-align:center}
+#caclulator-chart td{ border-bottom:1px dotted #CCC;padding-top:12px;padding-bottom:12px; text-align:center;font-size:1.1em;  }
+#caclulator-chart th{ border-bottom:1px dotted #CCC;padding-top:10px;padding-bottom:10px;background-color: #919191;color:#FFF }
+
+#calculator-user {background-color:#FFF;font-size:.9em;padding:5px;min-height:410px;}
+#calculator-user  h1{ color:#333 ;padding:5px;font-size:1.4em; text-align:center}
+
+
+
+
+#gold-menu{ text-align:right;color:#000;font-size:.9em;margin-right:25px;}
+#gold-menu a{ margin-left:15px;color:#000; text-decoration:none}
+#gold-menu a:hover{ text-decoration:underline}
+
+input.gold-input{border:2px inset #CCC;margin-top:0px;margin-bottom:0px;}
+
+
+
