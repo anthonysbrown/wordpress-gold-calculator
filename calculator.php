@@ -16,7 +16,7 @@ add_action('admin_menu', 'dlg_gold_calculator_menu');
 include_once 'functions.php';
 include_once 'shortcode.php';
 
-define('SP_GOLD_XML_URL',"http://smartypantsplugins.com/g_data/index.php?s=".$_SERVER['SERVER_NAME']."");
+define('SP_GOLD_XML_URL',"http://changetoyoururl.com/xml.php");
 
 //js files
 
